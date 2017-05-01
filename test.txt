@@ -1,2 +1,6 @@
-master
+<<<<<<< HEAD
+hi i'm master
+=======
+second
+>>>>>>> SecondWeed
 
